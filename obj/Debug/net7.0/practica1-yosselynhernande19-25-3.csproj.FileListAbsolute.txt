@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\Desktop\repositorio_practica\practica1-yosselynhernande19-25-3\bin\Debug\net7.0\practica1-yosselynhernande19-25-3.exe
+C:\Users\MINEDUCYT\Desktop\repositorio_practica\practica1-yosselynhernande19-25-3\bin\Debug\net7.0\practica1-yosselynhernande19-25-3.deps.json
+C:\Users\MINEDUCYT\Desktop\repositorio_practica\practica1-yosselynhernande19-25-3\bin\Debug\net7.0\practica1-yosselynhernande19-25-3.runtimeconfig.json
+C:\Users\MINEDUCYT\Desktop\repositorio_practica\practica1-yosselynhernande19-25-3\bin\Debug\net7.0\practica1-yosselynhernande19-25-3.dll
+C:\Users\MINEDUCYT\Desktop\repositorio_practica\practica1-yosselynhernande19-25-3\bin\Debug\net7.0\practica1-yosselynhernande19-25-3.pdb
+C:\Users\MINEDUCYT\Desktop\repositorio_practica\practica1-yosselynhernande19-25-3\obj\Debug\net7.0\practica1-yosselynhernande19-25-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\repositorio_practica\practica1-yosselynhernande19-25-3\obj\Debug\net7.0\practica1-yosselynhernande19-25-3.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\repositorio_practica\practica1-yosselynhernande19-25-3\obj\Debug\net7.0\practica1-yosselynhernande19-25-3.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\repositorio_practica\practica1-yosselynhernande19-25-3\obj\Debug\net7.0\practica1-yosselynhernande19-25-3.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\repositorio_practica\practica1-yosselynhernande19-25-3\obj\Debug\net7.0\practica1-yosselynhernande19-25-3.dll
+C:\Users\MINEDUCYT\Desktop\repositorio_practica\practica1-yosselynhernande19-25-3\obj\Debug\net7.0\refint\practica1-yosselynhernande19-25-3.dll
+C:\Users\MINEDUCYT\Desktop\repositorio_practica\practica1-yosselynhernande19-25-3\obj\Debug\net7.0\practica1-yosselynhernande19-25-3.pdb
+C:\Users\MINEDUCYT\Desktop\repositorio_practica\practica1-yosselynhernande19-25-3\obj\Debug\net7.0\practica1-yosselynhernande19-25-3.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Desktop\repositorio_practica\practica1-yosselynhernande19-25-3\obj\Debug\net7.0\ref\practica1-yosselynhernande19-25-3.dll
